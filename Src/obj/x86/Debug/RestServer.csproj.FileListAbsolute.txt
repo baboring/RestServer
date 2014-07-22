@@ -1,0 +1,22 @@
+Z:\Downloads\RestServer-1\RestServer\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Downloads\RestServer-1\RestServer\bin\Debug\RestServer.exe
+Z:\Downloads\RestServer-1\RestServer\bin\Debug\RestServer.pdb
+Z:\Downloads\RestServer-1\RestServer\obj\x86\Debug\RestServer.exe
+Z:\Downloads\RestServer-1\RestServer\obj\x86\Debug\RestServer.pdb
+C:\Documents and Settings\Administrator\Desktop\RestServer-PW\RestServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RestServer-PW\RestServer\obj\x86\Debug\RestServer.exe
+C:\Documents and Settings\Administrator\Desktop\RestServer-PW\RestServer\obj\x86\Debug\RestServer.pdb
+C:\Documents and Settings\Administrator\Desktop\RestServer-PW\RestServer\bin\Debug\RestServer.exe
+C:\Documents and Settings\Administrator\Desktop\RestServer-PW\RestServer\bin\Debug\RestServer.pdb
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\obj\x86\Debug\RestServer.exe
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\obj\x86\Debug\RestServer.pdb
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\bin\Debug\RestServer.exe
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\bin\Debug\RestServer.pdb
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\bin\Debug\RestSharp.Net2.dll
+C:\Users\Ionut\Desktop\RestServer-PW\RestServer\obj\x86\Debug\RestServer.csprojResolveAssemblyReference.cache
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\obj\x86\Debug\RestServer.exe
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\obj\x86\Debug\RestServer.pdb
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\bin\Debug\RestServer.exe
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\bin\Debug\RestServer.pdb
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\bin\Debug\RestSharp.Net2.dll
+C:\Users\Ionut\Desktop\RestServer-PW - Copy\RestServer\obj\x86\Debug\RestServer.csprojResolveAssemblyReference.cache
